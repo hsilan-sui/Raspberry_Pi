@@ -12,7 +12,7 @@
 
 > 成品
 
-<a href="https://youtu.be/uKKZ77XTWO0" target="_blank"><img src="http://img.youtube.com/vi/R0uufIdWCD4/0.jpg"> alt="用程式控制 LED 燈的明滅" width="3000" height="240" border="5" /></a>
+<a href="https://youtu.be/uKKZ77XTWO0" target="_blank"><img src="http://img.youtube.com/vi/R0uufIdWCD4/0.jpg" alt="用程式控制 LED 燈的明滅" width="3000" height="240" border="5" /></a>
 
 > 程式
 
