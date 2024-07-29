@@ -1,5 +1,21 @@
 # 樹莓派筆記
 
+## 用程式控制你的 LED 燈的明滅
+
+> 使用設備
+
+- Raspberry Pi
+- LED
+- 電阻 220 Ω 或其他適合阻值
+- 麵包板
+- 杜邦線
+
+> 成品
+
+<a href="https://youtu.be/uKKZ77XTWO0" target="_blank"><img src="http://img.youtube.com/vi/R0uufIdWCD4/0.jpg"> alt="用程式控制 LED 燈的明滅" width="3000" height="240" border="5" /></a>
+
+> 程式
+
 ## 認識基本項目
 
 > 認識 GPIO
@@ -15,7 +31,7 @@
 
 ![GPIO](images/gpio.png)
 
-- GPIO 代表“通用輸入/輸出”，正是這些引腳讓 Raspberry Pi 發揮了其功效。因為這些引腳沒有特定的功能，所以可以設置為某個專用功能，例如控制信號
+- GPIO 代表“通用輸入/輸出”，正是這些引腳讓 Raspberry Pi 發揮了其功效。因為這些引腳沒有特定的功能，所以可以設置為某個專用功能，例如『控制信號』
 
 > 麵包板 的通電範例
 
@@ -30,16 +46,4 @@
 - 也可以這樣插電：
 - ![麵包板](images/breadboard_04.png)
 
-## 用程式控制你的 LED 燈的明滅
-
-> 使用設備
-
-- Raspberry Pi
-- LED
-- 電阻 220 Ω 或其他適合阻值
-- 麵包板
-- 杜邦線
-
-> 成品
-
-> 程式
+- ![LED燈](images/長腳正與短腳負.png)
