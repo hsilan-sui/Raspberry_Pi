@@ -6,13 +6,13 @@
 
 ---
 
-## <a href="https://youtu.be/du01vDO3auY" target="_blank"><img src="https://youtu.be/du01vDO3auY" alt="用程式控制 servo  motor" width="550" height="300" border="3px" /></a>
+## <a href="https://youtu.be/du01vDO3auY" target="_blank"><img src="images/servo_motor.png" alt="用程式控制 servo  motor" width="550" height="300" border="3px" /></a>
 
 ---
 
 > 程式碼
 
-## 用頁面的視窗-即時控制你的 LED 燈色
+## (進階)用頁面的視窗-即時控制你的 LED 燈色
 
 - 用 Tkinter 函式庫創建控制 RGB 參數的(GUI)圖形介面橫桿，並即時將參數傳遞給 GPIO 庫來控制 RGB LED 的燈色
 
@@ -20,7 +20,7 @@
 
 ---
 
-## <a href="https://youtu.be/SlcXuhCxfJo" target="_blank"><img src="https://youtu.be/SlcXuhCxfJo" alt="用頁面的視窗-即時控制你的 LED 燈色" width="550" height="300" border="3px" /></a>
+## <a href="https://youtu.be/SlcXuhCxfJo" target="_blank"><img src="images/led_02.png" alt="用頁面的視窗-即時控制你的 LED 燈色" width="550" height="300" border="3px" /></a>
 
 ---
 
@@ -32,7 +32,7 @@
 
 ---
 
-## <a href="https://www.youtube.com/watch?v=r-h42whzPA8" target="_blank"><img src="https://www.youtube.com/watch?v=r-h42whzPA8" alt="即時控制你的 LED 燈色" width="550" height="300" border="3px" /></a>
+## <a href="https://www.youtube.com/watch?v=r-h42whzPA8" target="_blank"><img src="images/led_01.png" alt="用程式控制 RGB 燈的閃爍" width="550" height="300" border="3px" /></a>
 
 ---
 
@@ -42,7 +42,7 @@
 
 ---
 
-## <a href="https://youtu.be/uKKZ77XTWO0" target="_blank"><img src="https://i9.ytimg.com/vi_webp/uKKZ77XTWO0/mq2.webp?sqp=CJDKnrUG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGQgZChkMA8=&rs=AOn4CLBy1NF1M3Gjk0hSBU_fAJ94YkwQ3A" alt="用程式控制 LED 燈的明滅" width="550" height="300" border="3px" /></a>
+## <a href="https://youtu.be/uKKZ77XTWO0" target="_blank"><img src="images/led_001.png" alt="用程式控制 LED 燈的明滅" width="550" height="300" border="3px" /></a>
 
 ---
 
