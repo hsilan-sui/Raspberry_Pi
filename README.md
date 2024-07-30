@@ -1,14 +1,42 @@
 # 樹莓派筆記
 
+## 用程式控制 servo motor
+
+> 成果展示(以下為 YT 連結)
+
+---
+
+## <a href="https://youtu.be/du01vDO3auY" target="_blank"><img src="https://youtu.be/du01vDO3auY" alt="用程式控制 servo  motor" width="550" height="300" border="3px" /></a>
+
+---
+
+> 程式碼
+
+## 用頁面的視窗-即時控制你的 LED 燈色
+
+- 用 Tkinter 函式庫創建控制 RGB 參數的(GUI)圖形介面橫桿，並即時將參數傳遞給 GPIO 庫來控制 RGB LED 的燈色
+
+> 成果展示(以下為 YT 連結)
+
+---
+
+## <a href="https://youtu.be/SlcXuhCxfJo" target="_blank"><img src="https://youtu.be/SlcXuhCxfJo" alt="用頁面的視窗-即時控制你的 LED 燈色" width="550" height="300" border="3px" /></a>
+
+---
+
+> 程式碼-請見 `02_dynamicLed.py`
+
+## 用程式控制 RGB 燈的閃爍
+
+> 成果展示(以下為 YT 連結)
+
+---
+
+## <a href="https://www.youtube.com/watch?v=r-h42whzPA8" target="_blank"><img src="https://www.youtube.com/watch?v=r-h42whzPA8" alt="即時控制你的 LED 燈色" width="550" height="300" border="3px" /></a>
+
+---
+
 ## 用程式控制你的 LED 燈的明滅
-
-> 使用設備
-
-- Raspberry Pi
-- LED
-- 電阻 220 Ω 或其他適合阻值
-- 麵包板
-- 杜邦線
 
 > 成品(直接點擊以下圖片連接到 yt)
 
