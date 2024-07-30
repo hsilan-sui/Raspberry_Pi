@@ -24,7 +24,7 @@
 
 ---
 
-> 程式碼-請見 `02_dynamicLed.py`
+> 程式碼-請見 [02_dynamicLed.py](https://github.com/hsilan-sui/Raspberry_Pi/blob/main/02_dynamicLed.py)
 
 ## 用程式控制 RGB 燈的閃爍
 
